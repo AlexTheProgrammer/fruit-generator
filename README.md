@@ -2,14 +2,14 @@
 
 command line tool for generating a random fruit
 
-# install
-# clone
+## install
+clone the repo
 ```sh
 cd fruit-generator
 go install
 ```
 
-# usage
+## usage
 ```sh
 fruit
 ```
